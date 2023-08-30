@@ -3,4 +3,5 @@ freeCodeCamp curriculum Responsive Web Design, (Learn Typography  by building a 
 ## Preview of build
 
 ![image][def]
+
 [def]:Preview-nutrition-label.PNG
